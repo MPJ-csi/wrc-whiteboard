@@ -1,0 +1,14 @@
+{
+  "name": "WRC Whiteboard",
+  "short_name": "WRC Board",
+  "description": "Coaching whiteboard for wheelchair rugby",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#14181f",
+  "theme_color": "#14181f",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
