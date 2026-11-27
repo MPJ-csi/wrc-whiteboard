@@ -1,0 +1,7 @@
+node_modules
+dist
+.DS_Store
+
+# Project paperwork (grant application, meeting notes) stays out of the repository
+*.docx
+*.pdf
